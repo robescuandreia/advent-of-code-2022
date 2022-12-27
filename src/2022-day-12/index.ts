@@ -175,7 +175,6 @@ export const solution2 = (input: string) => {
   return min;
 };
 
-
 console.log(solution1(data));
 // 484;
 console.log(solution2(data));
